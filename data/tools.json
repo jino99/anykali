@@ -1,0 +1,79 @@
+{
+  "Information Gathering": [
+    {"name": "nmap",        "pkg": "nmap",        "desc": "Network exploration and security auditing"},
+    {"name": "recon-ng",    "pkg": "recon-ng",    "desc": "Web reconnaissance framework"},
+    {"name": "maltego",     "pkg": "maltego",     "desc": "OSINT and graphical link analysis"},
+    {"name": "theHarvester","pkg": "theharvester","desc": "Email, subdomain, and name harvester"},
+    {"name": "dmitry",      "pkg": "dmitry",      "desc": "Deepmagic Information Gathering Tool"},
+    {"name": "netdiscover", "pkg": "netdiscover", "desc": "Active/passive ARP reconnaissance"},
+    {"name": "masscan",     "pkg": "masscan",     "desc": "Fast TCP port scanner"},
+    {"name": "amass",       "pkg": "amass",       "desc": "In-depth attack surface mapping"}
+  ],
+  "Vulnerability Analysis": [
+    {"name": "nikto",       "pkg": "nikto",       "desc": "Web server vulnerability scanner"},
+    {"name": "openvas",     "pkg": "openvas",     "desc": "Open Vulnerability Assessment System"},
+    {"name": "lynis",       "pkg": "lynis",       "desc": "Security auditing tool for Unix"},
+    {"name": "nessus",      "pkg": "nessus",      "desc": "Vulnerability scanner (commercial)"},
+    {"name": "legion",      "pkg": "legion",      "desc": "Semi-automated network penetration testing"}
+  ],
+  "Exploitation Tools": [
+    {"name": "metasploit",  "pkg": "metasploit-framework", "desc": "Penetration testing framework"},
+    {"name": "sqlmap",      "pkg": "sqlmap",      "desc": "Automatic SQL injection tool"},
+    {"name": "beef-xss",    "pkg": "beef-xss",    "desc": "Browser Exploitation Framework"},
+    {"name": "exploitdb",   "pkg": "exploitdb",   "desc": "Exploit Database archive"},
+    {"name": "commix",      "pkg": "commix",      "desc": "Automated command injection tool"}
+  ],
+  "Wireless Attacks": [
+    {"name": "aircrack-ng", "pkg": "aircrack-ng", "desc": "WiFi security auditing tools suite"},
+    {"name": "wifite",      "pkg": "wifite",      "desc": "Automated wireless auditor"},
+    {"name": "kismet",      "pkg": "kismet",      "desc": "Wireless network detector and sniffer"},
+    {"name": "reaver",      "pkg": "reaver",      "desc": "WPS brute force attack tool"},
+    {"name": "fern-wifi-cracker","pkg":"fern-wifi-cracker","desc":"Wireless security auditing GUI"}
+  ],
+  "Web Application Analysis": [
+    {"name": "burpsuite",   "pkg": "burpsuite",   "desc": "Web application security testing platform"},
+    {"name": "zaproxy",     "pkg": "zaproxy",     "desc": "OWASP Zed Attack Proxy"},
+    {"name": "wpscan",      "pkg": "wpscan",      "desc": "WordPress vulnerability scanner"},
+    {"name": "dirb",        "pkg": "dirb",        "desc": "Web content scanner"},
+    {"name": "gobuster",    "pkg": "gobuster",    "desc": "Directory/file/DNS brute-forcer"},
+    {"name": "ffuf",        "pkg": "ffuf",        "desc": "Fast web fuzzer"}
+  ],
+  "Password Attacks": [
+    {"name": "hashcat",     "pkg": "hashcat",     "desc": "Advanced password recovery utility"},
+    {"name": "john",        "pkg": "john",        "desc": "John the Ripper password cracker"},
+    {"name": "hydra",       "pkg": "hydra",       "desc": "Network login cracker"},
+    {"name": "medusa",      "pkg": "medusa",      "desc": "Parallel network login auditor"},
+    {"name": "crunch",      "pkg": "crunch",      "desc": "Wordlist generator"}
+  ],
+  "Sniffing & Spoofing": [
+    {"name": "wireshark",   "pkg": "wireshark",   "desc": "Network protocol analyzer"},
+    {"name": "tcpdump",     "pkg": "tcpdump",     "desc": "Command-line packet analyzer"},
+    {"name": "ettercap",    "pkg": "ettercap-graphical","desc":"Man-in-the-middle attack suite"},
+    {"name": "bettercap",   "pkg": "bettercap",   "desc": "Network attack and monitoring framework"},
+    {"name": "responder",   "pkg": "responder",   "desc": "LLMNR/NBT-NS/mDNS poisoner"}
+  ],
+  "Post Exploitation": [
+    {"name": "empire",      "pkg": "powershell-empire","desc":"Post-exploitation framework"},
+    {"name": "weevely",     "pkg": "weevely",     "desc": "Stealth PHP web shell"},
+    {"name": "mimikatz",    "pkg": "mimikatz",    "desc": "Windows credential extractor"},
+    {"name": "crackmapexec","pkg": "crackmapexec","desc": "Network protocol swiss army knife"}
+  ],
+  "Forensics": [
+    {"name": "autopsy",     "pkg": "autopsy",     "desc": "Digital forensics platform"},
+    {"name": "volatility",  "pkg": "volatility3", "desc": "Memory forensics framework"},
+    {"name": "binwalk",     "pkg": "binwalk",     "desc": "Firmware analysis tool"},
+    {"name": "foremost",    "pkg": "foremost",    "desc": "File carving tool"},
+    {"name": "bulk-extractor","pkg":"bulk-extractor","desc":"High-performance forensic feature extraction"}
+  ],
+  "Reverse Engineering": [
+    {"name": "ghidra",      "pkg": "ghidra",      "desc": "NSA reverse engineering framework"},
+    {"name": "radare2",     "pkg": "radare2",     "desc": "Reverse engineering framework"},
+    {"name": "gdb",         "pkg": "gdb",         "desc": "GNU debugger"},
+    {"name": "pwndbg",      "pkg": "pwndbg",      "desc": "GDB plugin for exploit development"},
+    {"name": "jadx",        "pkg": "jadx",        "desc": "Android APK decompiler"}
+  ],
+  "Social Engineering": [
+    {"name": "setoolkit",   "pkg": "set",         "desc": "Social Engineering Toolkit"},
+    {"name": "gophish",     "pkg": "gophish",     "desc": "Open-source phishing framework"}
+  ]
+}

@@ -1,0 +1,4 @@
+# ANYKALI has no third-party runtime dependencies.
+# All functionality uses Python 3.10+ stdlib only.
+# Install dev/test dependencies separately if needed:
+#   pip install pytest
