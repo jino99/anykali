@@ -54,17 +54,17 @@
 
 | Category | Tools |
 |---|---|
-| 🔍 Information Gathering | nmap, masscan, recon-ng, maltego, theHarvester, amass, dmitry, netdiscover |
-| 🛡️ Vulnerability Analysis | nikto, openvas, lynis, nessus, legion |
-| 💥 Exploitation | metasploit, sqlmap, beef-xss, exploitdb, commix |
-| 📡 Wireless Attacks | aircrack-ng, wifite, kismet, reaver, fern-wifi-cracker |
-| 🌐 Web Application Analysis | burpsuite, zaproxy, wpscan, dirb, gobuster, ffuf |
-| 🔑 Password Attacks | hashcat, john, hydra, medusa, crunch |
-| 🕵️ Sniffing & Spoofing | wireshark, tcpdump, ettercap, bettercap, responder |
-| 🎯 Post Exploitation | empire, weevely, mimikatz, crackmapexec |
-| 🔬 Forensics | autopsy, volatility, binwalk, foremost, bulk-extractor |
-| ⚙️ Reverse Engineering | ghidra, radare2, gdb, pwndbg, jadx |
-| 🎭 Social Engineering | setoolkit, gophish |
+| Information Gathering | nmap, masscan, recon-ng, maltego, theHarvester, amass, dmitry, netdiscover |
+| Vulnerability Analysis | nikto, openvas, lynis, nessus, legion |
+| Exploitation | metasploit, sqlmap, beef-xss, exploitdb, commix |
+| Wireless Attacks | aircrack-ng, wifite, kismet, reaver, fern-wifi-cracker |
+| Web Application Analysis | burpsuite, zaproxy, wpscan, dirb, gobuster, ffuf |
+| Password Attacks | hashcat, john, hydra, medusa, crunch |
+| Sniffing & Spoofing | wireshark, tcpdump, ettercap, bettercap, responder |
+| Post Exploitation | empire, weevely, mimikatz, crackmapexec |
+| Forensics | autopsy, volatility, binwalk, foremost, bulk-extractor |
+| Reverse Engineering | ghidra, radare2, gdb, pwndbg, jadx |
+| Social Engineering | setoolkit, gophish |
 
 </details>
 
